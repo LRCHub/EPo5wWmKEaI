@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Give Me Everything",
+  "base_artist": "Pitbull",
+  "createdAt": "2026-02-07T12:49:54.672401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull feat. Ne-Yo",
+      "has_synced": false,
+      "path": "select/01_Give_Me_Everything_Pitbull_feat._Ne-Yo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/02_Give_Me_Everything_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull feat. Ne-Yo, Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/03_Give_Me_Everything_Pitbull_feat._Ne-Yo,_Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+      "artist": "Pitbull, Ne-Yo, Afrojack, Nayer",
+      "has_synced": true,
+      "path": "select/04_Give_Me_Everything_(feat._Ne-Yo,_Afrojack_&_Nayer)_Pitbull,_Ne-Yo,_Afrojack,_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull feat. Ne‐Yo, Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/05_Give_Me_Everything_Pitbull_feat._Ne‐Yo,_Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull, NeYo, Afrojack, Nayer",
+      "has_synced": true,
+      "path": "select/06_Give_Me_Everything_Pitbull,_NeYo,_Afrojack,_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull (ft. Ne-Yo, Afrojack & Nayer)",
+      "has_synced": true,
+      "path": "select/07_Give_Me_Everything_Pitbull_(ft._Ne-Yo,_Afrojack_&_Nayer).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",
+      "artist": "Pitbull, Ne-Yo, Afrojack, Nayer",
+      "has_synced": true,
+      "path": "select/08_Give_Me_Everything_(feat._Ne-Yo,_Afrojack_&_Nayer)_Pitbull,_Ne-Yo,_Afrojack,_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bellas Finals: Price Tag/Don’t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around",
+      "artist": "The Barden Bellas",
+      "has_synced": true,
+      "path": "select/09_Bellas_Finals__Price_Tag_Don’t_You_(Forget_About_Me)_Give_Me_Everything_Just_The_The_Barden_Bellas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bellas Finals: Price Tag \u0000 Don’t You (Forget About Me) \u0000 Give Me Everything \u0000 Just the Way You Are \u0000 Party In the U.S.A. \u0000 Turn the Beat Around",
+      "artist": "The Barden Bellas",
+      "has_synced": true,
+      "path": "select/10_Bellas_Finals__Price_Tag_\u0000_Don’t_You_(Forget_About_Me)_\u0000_Give_Me_Everything_\u0000_Ju_The_Barden_Bellas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull feat. Ne-Yo,Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/11_Give_Me_Everything_Pitbull_feat._Ne-Yo,Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull Feat. Ne-Yo, Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/12_Give_Me_Everything_Pitbull_Feat._Ne-Yo,_Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull Featuring Ne-Yo, Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/13_Give_Me_Everything_Pitbull_Featuring_Ne-Yo,_Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me Everything (Radio Edit)",
+      "artist": "Pitbull feat. Afrojack, Nayer & Ne-Yo",
+      "has_synced": false,
+      "path": "select/14_Give_Me_Everything_(Radio_Edit)_Pitbull_feat._Afrojack,_Nayer_&_Ne-Yo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me Everything (Radio Edit)",
+      "artist": "Pitbull  feat. Ne-Yo Afrojack & Nayer",
+      "has_synced": false,
+      "path": "select/15_Give_Me_Everything_(Radio_Edit)_Pitbull_feat._Ne-Yo_Afrojack_&_Nayer.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me Everything",
+      "artist": "Pitbull Feat. Ne-Yo & Afrojack & Nayer",
+      "has_synced": true,
+      "path": "select/16_Give_Me_Everything_Pitbull_Feat._Ne-Yo_&_Afrojack_&_Nayer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give Me Everything",
+      "artist": "Pitbull",
+      "has_synced": false,
+      "path": "select/pl_01_Give_Me_Everything_Pitbull.txt"
+    }
+  ]
+}
